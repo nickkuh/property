@@ -1,13 +1,13 @@
 {
   "properties": [
     {
-      "id": "palmeria",
+      "id": "palmeira",
       "title": "3 bed flat for sale",
       "price": 725000,
       "beds": 3,
       "baths": 2,
       "receptions": 1,
-      "address": "Palmeria Avenue, Hove, BN3",
+      "address": "Palmeira Avenue, Hove, BN3",
       "images": [
         {
           "caption": "Photo 1",
