@@ -1,0 +1,50 @@
+{
+  "title": "3 bed flat for sale",
+  "price": 725000,
+  "beds": 3,
+  "baths": 2,
+  "receptions": 1,
+  "address": "Palmeria Avenue, Hove, BN3",
+  "images": [
+    {
+      "caption": "Photo 1",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 2",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 3",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 4",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 5",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 6",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 7",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 8",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 9",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    },
+    {
+      "caption": "Photo 10",
+      "uri": "https://lid.zoocdn.com/u/2400/1800/2cb0606454bde11cba21711bee80a0b04d356262.jpg"
+    }
+  ]
+}
